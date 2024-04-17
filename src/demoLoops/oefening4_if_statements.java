@@ -1,6 +1,6 @@
 package demoLoops;
 
-public class ifStatementDemo {
+public class oefening4_if_statements {
     public static void main(String[] args) {
         // if statement voor 1 case
         if (3 < 4) {
