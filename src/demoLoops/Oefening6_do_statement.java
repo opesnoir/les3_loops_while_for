@@ -2,7 +2,7 @@ package demoLoops;
 
 import java.util.Scanner;
 
-public class Oefening6_iteratie_do_statement {
+public class Oefening6_do_statement {
     public static void main(String[] args) {
         //initieer je variabelen en scanner
         Scanner input = new Scanner(System.in);
