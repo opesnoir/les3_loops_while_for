@@ -1,6 +1,6 @@
 package demoLoops;
 
-public class oefening3_afronden_decimalen {
+public class Oefening2_afronden_decimalen {
     public static void main(String[] args) {
         double d = 34.43234555;
         //zonder af te ronden printen

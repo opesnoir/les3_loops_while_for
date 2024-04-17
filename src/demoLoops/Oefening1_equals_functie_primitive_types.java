@@ -5,7 +5,7 @@ package demoLoops;
 // == kijkt naar de inhoud van de zaken die je vergelijkt, om te zeggen of het gelijk is
 // .equals kan er gekeken worden naar reference types en of hun inhoud gelijk is
 
-public class oefening2_equals_functie_primitive_types {
+public class Oefening1_equals_functie_primitive_types {
     public static void main(String[] args) {
         String s = "hello";
         String t = "hell";
